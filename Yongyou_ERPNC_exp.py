@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-# @Time    : 2020/10/16 11:03
+# @Time    : 2021/04/12 18:03
 # @Author  : Erikten
 # @Site    :
-# @File    : Web_injection_exp.py
+# @File    : Yongyou_ERPNC_exp.py
 # @Software: PyCharm
 
 import requests
